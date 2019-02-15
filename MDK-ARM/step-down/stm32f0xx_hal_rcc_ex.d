@@ -27,5 +27,7 @@ step-down\stm32f0xx_hal_rcc_ex.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_
 step-down\stm32f0xx_hal_rcc_ex.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h
 step-down\stm32f0xx_hal_rcc_ex.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h
 step-down\stm32f0xx_hal_rcc_ex.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h
+step-down\stm32f0xx_hal_rcc_ex.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim.h
+step-down\stm32f0xx_hal_rcc_ex.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim_ex.h
 step-down\stm32f0xx_hal_rcc_ex.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h
 step-down\stm32f0xx_hal_rcc_ex.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart_ex.h
